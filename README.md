@@ -22,10 +22,11 @@ With a background in data extraction, API integration, and business insight crea
 
 Take a look at two of my storytelling case studies:
 
-- **[Fleet Leasing Company](https://github.com/lisa-mcdonough/FleetLeasing)**  
+- **[Fleet Leasing Company](https://github.com/lisa-mcdonough/FleetLeasingCompany/tree/main/FleetLeasingCompany
+)**  
   Win/loss breakdown for a fleet leasing pipeline—drill throughs, dynamic targets, and account-level KPIs
 
-- **[Flour Power Bakery](https://github.com/lisa-mcdonough/FlourPower)**  
+- **[Flour Power Bakery](https://github.com/lisa-mcdonough/FlourPowerBakery)**  
   Retail POS dashboard modeling sales vs. employee hours, hourly/daily revenue, and product-level performance
 
 Each repo includes `.pbix` files, DAX measures, screenshots, and YouTube walkthroughs. Built to communicate. Designed to connect.
