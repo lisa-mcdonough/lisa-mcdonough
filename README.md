@@ -34,8 +34,8 @@ Each repo includes `.pbix` files, DAX measures, screenshots, and YouTube walkthr
 
 ## 🏅 Certifications
 
-- [PL-300: Power BI Data Analyst Associate](https://learn.microsoft.com/en-us/credentials/certifications/power-bi-data-analyst-associate/) – Microsoft  
-- [Google Analytics Certification](https://skillshop.exceedlms.com/student/catalog/list?category_ids=53-google-analytics-academy) – Google
+- [PL-300: Power BI Data Analyst (Microsoft)](./Power BI Data Analyst Associate Certificate.pdf) -Microsoft
+- [Google Analytics (Google)](./Data Analysis with R Certificate.pdf) -Google
 
 ---
 
