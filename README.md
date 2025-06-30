@@ -35,8 +35,8 @@ Each repo includes `.pbix` files, DAX measures, screenshots, and YouTube walkthr
 
 ## 🏅 Certifications
 
-- [PL-300: Power BI Data Analyst (Microsoft)](https://github.com/Lisa-McDonough-PowerBI-Portfolio/Power%20BI%20Data%20Analyst%20Associate%20Certificate.pdf) – Microsoft  
-- [Google Analytics (Google)](https://github.com/Lisa-McDonough-PowerBI-Portfolio/Data%20Analysis%20with%20R%20Certificate.pdf) – Google
+- [PL-300: Power BI Data Analyst (Microsoft)](https://github.com/lisa-mcdonough/Lisa-McDonough-PowerBI-Portfolio/blob/main/Power%20BI%20Data%20Analyst%20Asssociate%20Certificate.pdf) – Microsoft  
+- [Google Analytics (Google)](https://github.com/lisa-mcdonough/Lisa-McDonough-PowerBI-Portfolio/blob/main/Data%20Analysis%20with%20R%20Certificate.pdf) – Google
 
 ---
 
