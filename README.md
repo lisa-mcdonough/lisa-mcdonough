@@ -22,7 +22,7 @@ With a background in data extraction, API integration, and business insight crea
 
 Take a look at two of my storytelling case studies:
 
-- **[Fleet Leasing](https://github.com/lisa-mcdonough/FleetLeasing)**  
+- **[Fleet Leasing Company](https://github.com/lisa-mcdonough/FleetLeasing)**  
   Win/loss breakdown for a fleet leasing pipeline—drill throughs, dynamic targets, and account-level KPIs
 
 - **[Flour Power Bakery](https://github.com/lisa-mcdonough/FlourPower)**  
@@ -34,8 +34,8 @@ Each repo includes `.pbix` files, DAX measures, screenshots, and YouTube walkthr
 
 ## 🏅 Certifications
 
-- [PL-300: Power BI Data Analyst (Microsoft)](./Power BI Data Analyst Associate Certificate.pdf) -Microsoft
-- [Google Analytics (Google)](./Data Analysis with R Certificate.pdf) -Google
+- [PL-300: Power BI Data Analyst (Microsoft)](https://github.com/lisa-mcdonough/Power BI Data Analyst Associate Certificate.pdf) -Microsoft
+- [Google Analytics (Google)](https://github.com/lisa-mcdonough/Data Analysis with R Certificate.pdf) -Google
 
 ---
 
