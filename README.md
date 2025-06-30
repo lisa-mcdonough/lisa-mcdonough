@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Lisa McDonough
+# 👋 Hi, I’m Lisa McDonough & this is my Portfolio
 
 I turn raw data into clear, purposeful stories using Power BI, DAX, and (soon) Python.
 
