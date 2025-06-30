@@ -54,8 +54,8 @@ Follow sales at a fictional bakery chain—tracking daily patterns, product-leve
 
 ## 🏅 Certifications
 
-- [PL-300: Power BI Data Analyst Associate](https://github.com/lisa-mcdonough/blob/main/Power%20BI%20Data%20Analyst%20Associate%20Certificate.pdf) – Microsoft  
-- [Google Analytics Certification](https://github.com/lisa-mcdonough/blob/main/Data%20Analysis%20with%20R%20Certificate.pdf) – Google
+- [PL-300: Power BI Data Analyst Associate](https://github.com/lisa-mcdonough/lisa-mcdonough/blob/main/Power%20BI%20Data%20Analyst%20Asssociate%20Certificate.pdf) – Microsoft  
+- [Google Analytics Certification](https://github.com/lisa-mcdonough/lisa-mcdonough/blob/main/Data%20Analysis%20with%20R%20Certificate.pdf) – Google
 
 ---
 
