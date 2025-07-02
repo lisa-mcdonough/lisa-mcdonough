@@ -10,7 +10,7 @@ With a background in data extraction, API integration, and business insight crea
 
 - 📈 Visualize trends and performance using Power BI  
 - 🧮 Write dynamic and readable DAX measures  
-- 🔌 Connect and wrangle data via APIs (Clover, Lightspeed, etc.)  
+- 🔌 Connect and wrangle data via APIs and direct database access (Clover, SalesForce, SQL Server, etc.)  
 - 🎬 Create video walkthroughs to explain and showcase insights  
 - 🖊️ PowerPoint presentations with fully interactive embedded Power BI reports  
 - 🛠️ Continuously level up (currently exploring Python for analytics)
@@ -69,7 +69,7 @@ If you want a quick taste, explore the `Videos/` subfolders or view thumbnails a
 
 ## ✨ A Bit More About Me
 
-- 🎽 I approach analytics with the same persistence and rhythm I bring to distance running  
+- 🎽 I approach analytics with a curious mindset and a collaborative spirit, always aiming to transform raw numbers into clear, actionable insights that truly guide companies forward. 
 - 🧠 I'm drawn to tools that help data speak—APIs, narrative frameworks, schema diagrams, and automation  
 - 🗂️ My GitHub is where I build, polish, and share ideas that grow into real-world skills
 
