@@ -72,7 +72,7 @@ If you want a quick taste, explore the `Videos/` subfolders or view thumbnails a
 - 🎽 I approach analytics with a curious mindset and a collaborative spirit, always aiming to transform raw numbers into clear, actionable insights that truly guide companies forward. 
 - 🧠 I'm drawn to tools that help data speak—APIs, narrative frameworks, schema diagrams, and automation  
 - 🗂️ My GitHub is where I build, polish, and share ideas that grow into real-world skills
-  🌐 [`My Website: YourDataVisualized.com`](https://yourdatavisualized.com/) 
+- 🌐 [`My Website: YourDataVisualized.com`](https://yourdatavisualized.com/) 
 
 ---
 
