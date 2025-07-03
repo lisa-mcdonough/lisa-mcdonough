@@ -77,7 +77,7 @@ If you want a quick taste, explore the `Videos/` subfolders or view thumbnails a
 
 ## 🙏 Acknowledgments
 
-Special thanks to Microsoft Copilot for early morning debugging chats and help with formatting the repositories in this portfolio.
+Special thanks to Microsoft Copilot for debugging chats and help with formatting the repositories in this portfolio.
 
 ---
 
