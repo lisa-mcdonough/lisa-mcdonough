@@ -25,7 +25,7 @@ Whether you're an analyst, a hiring manager, or a fellow data enthusiast, I invi
 
 ---
 
-### 🚗 **Fleet Leasing: Win/Loss Performance Analysis – Leasing Industry**  
+### 🚗 **Fleet Leasing: Power-BI Win/Loss Performance Analysis – Leasing Industry**  
 Analyze CRM pipeline outcomes at a fictional leasing company. View accounts frequently requesting quotes without awarding business, drill into lost opportunities, and set performance goals using dynamic KPIs.
 
 📁 [`FleetLeasingCompany`](https://github.com/lisa-mcdonough/FleetLeasingCompany)  
@@ -34,7 +34,7 @@ Analyze CRM pipeline outcomes at a fictional leasing company. View accounts freq
 
 ---
 
-### 🧁 **Flour Power: Staffing & Business Hours Analysis – Retail Industry**  
+### 🧁 **Flour Power: Power-BI Staffing & Business Hours Analysis – Retail Industry**  
 Follow sales at a fictional bakery chain—tracking daily patterns, product-level COGS, staffing suggestions, and optimal business hours by weekday.
 
 📁 [`FlourPowerBakery`](https://github.com/lisa-mcdonough/FlourPowerBakery)  
