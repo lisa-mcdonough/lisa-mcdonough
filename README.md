@@ -35,7 +35,7 @@ Analyze CRM pipeline outcomes at a fictional leasing company. View accounts freq
 ---
 
 ### 🧁 **Flour Power: Power-BI Staffing & Business Hours Analysis – Retail Industry**  
-Follow sales at a fictional bakery chain—tracking daily patterns, product-level COGS, staffing suggestions, and optimal business hours by weekday.
+Follow sales at a fictional bakery chain—tracking daily patterns, product-level categorization, staffing suggestions based on aggregated daily sales, and optimal business hours by weekday.
 
 📁 [`FlourPowerBakery`](https://github.com/lisa-mcdonough/FlourPowerBakery)  
 🎥 Videos inside: Overview, lost items, drillthroughs, and day-level insights  
