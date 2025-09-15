@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Lisa McDonough & this is my Portfolio
 
-I turn raw data into clear, purposeful stories using Power BI, DAX, and (soon) Python.
+I turn raw data into clear, purposeful stories using Power Query, Power BI, and DAX.
 
 With a background in data extraction, API integration, and business insight creation, I build dashboards that go beyond the numbers—they communicate. Whether I’m shaping metrics from a CRM pipeline or modeling bakery sales in Power BI, my focus is always the same: make it *useful*, make it *understandable*, make it *impactful*.
 
